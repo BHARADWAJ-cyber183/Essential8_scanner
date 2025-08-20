@@ -1,0 +1,14 @@
+TestID,Evidence,Status,Findings
+ML1-OM-02,approved_users.txt + ad_group.txt,Insufficient Evidence,Need both Approved Users list and AD group membership export.
+ML1-OM-01,Capture1.PNG,Fail,No matching evidence.
+ML1-OM-03,Capture1.PNG,Fail,No banner detected.
+ML1-OM-04,Capture1.PNG,Fail,"{'word': None, 'excel': None, 'powerpoint': None}"
+ML1-OM-05,Capture1.PNG,Fail,"{'word': None, 'excel': None, 'powerpoint': None}"
+ML1-OM-06,Capture1.PNG,Fail,No AV detection evidence.
+ML1-OM-07,Capture1.PNG,Fail,No lock indicator found.
+ML1-OM-01,Capture3.PNG,Fail,No matching evidence.
+ML1-OM-03,Capture3.PNG,Fail,No banner detected.
+ML1-OM-04,Capture3.PNG,Fail,"{'word': None, 'excel': None, 'powerpoint': None}"
+ML1-OM-05,Capture3.PNG,Fail,"{'word': None, 'excel': None, 'powerpoint': None}"
+ML1-OM-06,Capture3.PNG,Fail,No AV detection evidence.
+ML1-OM-07,Capture3.PNG,Fail,No lock indicator found.
