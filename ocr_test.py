@@ -77,4 +77,4 @@ with open("scan_report.csv", "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerows(report_rows)
 
-print("\n✅ Report saved as: scan_report.csv")
+print("\n Report saved as: scan_report.csv")
